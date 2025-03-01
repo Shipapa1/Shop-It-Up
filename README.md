@@ -1,6 +1,11 @@
 # 🛒 Shop-It-Up
 
 In this project, we created a social shopping experience where users can add their friends or family to a shared shopping cart. It is a website that features a storefront type page, where users can add their items. The main feature of this store is the ability to add your friends or family members to your shopping cart. Similar to an Amazon storefront page, different products will be on display for the user to pick, and the user can also add to their shared shopping cart.
+
+-Built cart, checkout, and login pages with TypeScript
+-Routed backend APIs and improved request handling
+
+
 ## 🎥 Undeployed (didnt want to pay mongoDB)
 
 ---
