@@ -6,19 +6,18 @@ In this project, we created a social shopping experience where users can add the
 ---
 
 ## 🖼 Screenshots
-![Homepage](![image](https://github.com/user-attachments/assets/ff837699-0609-4dde-8945-af253ebbee62)
-)
-![LoginPage](![image](https://github.com/user-attachments/assets/c19851f3-3012-4978-a621-c58dc05ac4ee)
-)
-![Shopping Cart](![image](https://github.com/user-attachments/assets/d7a6e90e-6e83-4531-9faa-995fc65c0256)
-)
-![Checkout](![image](https://github.com/user-attachments/assets/418ad34e-e2db-4129-a2a4-ccccd58c48ee)
-)
-![CreateListing]![image](https://github.com/user-attachments/assets/67d26e8c-8e9a-4b6c-aed0-474a34b0ebc5)
-)
-![TestingBackend](![image](![image](https://github.com/user-attachments/assets/60ff15d1-98cc-4a32-8d70-a8134aa72206)
-)
-)
+![Homepage](https://github.com/user-attachments/assets/ff837699-0609-4dde-8945-af253ebbee62)
+
+![Login Page](https://github.com/user-attachments/assets/c19851f3-3012-4978-a621-c58dc05ac4ee)
+
+![Shopping Cart](https://github.com/user-attachments/assets/d7a6e90e-6e83-4531-9faa-995fc65c0256)
+
+![Checkout](https://github.com/user-attachments/assets/418ad34e-e2db-4129-a2a4-ccccd58c48ee)
+
+![Create Listing](https://github.com/user-attachments/assets/67d26e8c-8e9a-4b6c-aed0-474a34b0ebc5)
+
+![Testing Backend](https://github.com/user-attachments/assets/60ff15d1-98cc-4a32-8d70-a8134aa72206)
+
 
 ---
 
