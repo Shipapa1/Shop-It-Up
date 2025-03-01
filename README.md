@@ -1,15 +1,24 @@
 # 🛒 Shop-It-Up
 
 In this project, we created a social shopping experience where users can add their friends or family to a shared shopping cart. It is a website that features a storefront type page, where users can add their items. The main feature of this store is the ability to add your friends or family members to your shopping cart. Similar to an Amazon storefront page, different products will be on display for the user to pick, and the user can also add to their shared shopping cart.
-## 🎥 Live Demo
-🔗 [Shop-It-Up Live](https://your-deployed-site.com)
+## 🎥 Undeployed (didnt want to pay mongoDB)
 
 ---
 
 ## 🖼 Screenshots
-![Homepage](assets/homepage.png)
-![Shopping Cart](assets/cart.png)
-![Checkout](assets/checkout.png)
+![Homepage](![image](https://github.com/user-attachments/assets/ff837699-0609-4dde-8945-af253ebbee62)
+)
+![LoginPage](![image](https://github.com/user-attachments/assets/c19851f3-3012-4978-a621-c58dc05ac4ee)
+)
+![Shopping Cart](![image](https://github.com/user-attachments/assets/d7a6e90e-6e83-4531-9faa-995fc65c0256)
+)
+![Checkout](![image](https://github.com/user-attachments/assets/418ad34e-e2db-4129-a2a4-ccccd58c48ee)
+)
+![CreateListing]![image](https://github.com/user-attachments/assets/67d26e8c-8e9a-4b6c-aed0-474a34b0ebc5)
+)
+![TestingBackend](![image](![image](https://github.com/user-attachments/assets/60ff15d1-98cc-4a32-8d70-a8134aa72206)
+)
+)
 
 ---
 
